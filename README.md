@@ -1,4 +1,4 @@
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoisAbel&layout=compact&hide=html&theme=dark" alt="faridfr" width="400" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoisAbel&layout=compact&hide=html&theme=dark" alt="WhoisAbel" width="400" /></div>
 
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WhoisAbel&layout=compact&show_icons=true&theme=dark" alt="WhoisAbel"  width="400" /></div>
